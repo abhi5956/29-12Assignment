@@ -1,0 +1,19 @@
+1> create api link
+https://bookmangament-abhishek.free.beeceptor.com/createBook
+
+2> retrive a book details
+https://bookmangament-abhishek.free.beeceptor.com/bookByName/The Story Of My Experiments with Truth 
+
+3> update name of book
+https://bookmangament-abhishek.free.beeceptor.com/UpdateNameOfBook/The Story Of My Experiments with Truth
+
+4> update the author
+https://bookmangament-abhishek.free.beeceptor.com/authorby/?Mahadev Desai
+
+5> delete a book
+
+https://bookmangament-abhishek.free.beeceptor.com/bookByName/Jaico Publishing House
+
+6> get all book
+
+https://bookmangament-abhishek.free.beeceptor.com/allbooks
